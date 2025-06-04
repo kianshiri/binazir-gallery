@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>گالری هنری بی‌نظیر</title>
+  <style>
+    body { font-family: 'Tahoma', sans-serif; background: #f9f9f9; color: #333; direction: rtl; padding: 20px; }
+    h1 { color: #d63384; }
+    .product { background: #fff; padding: 15px; margin: 10px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    .contact { margin-top: 30px; padding: 15px; background: #ffe0f0; border-radius: 8px; }
+    .contact a { display: block; margin: 5px 0; text-decoration: none; color: #d63384; }
+  </style>
+</head>
+<body>
+  <h1>🎨 گالری هنری بی‌نظیر</h1>
+
+  <div class="product">
+    <h3>مگنت آهن‌ربایی (بسته ۲تایی)</h3>
+    <p>💰 قیمت: ۴۵,۰۰۰ تومان</p>
+  </div>
+
+  <div class="product">
+    <h3>جاعودی</h3>
+    <p>💰 قیمت: ۱۵۹,۰۰۰ تومان</p>
+  </div>
+
+  <div class="product">
+    <h3>جاکلیدی چوبی</h3>
+    <p>💰 قیمت: ۵۰,۰۰۰ تومان</p>
+  </div>
+
+  <div class="product">
+    <h3>تابلو بوم مینیمال</h3>
+    <p>ابعاد ۱۰ در ۱۰: ۷۰,۰۰۰ تومان</p>
+    <p>ابعاد ۱۵ در ۱۵: ۱۲۰,۰۰۰ تومان</p>
+    <p>ابعاد ۲۲ در ۲۲: ۱۵۸,۰۰۰ تومان</p>
+  </div>
+
+  <div class="product">
+    <h3>دیوارکوب سفالی</h3>
+    <p>قطر ۲۰: ۱۵۸,۰۰۰ تومان</p>
+    <p>قطر ۱۵: ۱۲۹,۰۰۰ تومان</p>
+    <p>قطر ۱۰: ۷۰,۰۰۰ تومان</p>
+  </div>
+
+  <div class="product">
+    <h3>طراحی چهره سیاه‌قلم</h3>
+    <p>💰 قیمت: تماس از طریق اینستا یا واتساپ</p>
+  </div>
+
+  <div class="contact">
+    <h3>📞 تماس و سفارش:</h3>
+    <a href="tel:09052544701">📱 شماره تماس: 09052544701</a>
+    <a href="https://wa.me/989052544701">💬 واتساپ: 09052544701</a>
+    <a href="https://instagram.com/-binazir-gallery">📸 اینستاگرام: -binazir-gallery</a>
+  </div>
+
+</body>
+</html>
